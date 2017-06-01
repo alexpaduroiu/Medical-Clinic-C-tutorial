@@ -22,7 +22,7 @@
 ![4](https://cloud.githubusercontent.com/assets/29074075/26681840/24b9d224-46e7-11e7-840d-dad167553222.PNG)
 
 
-  1.6**Do the same thing for the Pacients and the Prescriptions Classes
+  1.6**Do the same thing for the Pacients and the Prescriptions Classes**
   
   1.End**The project until now should look like this:**
   
